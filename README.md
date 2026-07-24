@@ -1,7 +1,9 @@
 # SmashGraph
 An electronic tracker that attaches to a pickleball paddle in order to collect data about the performance of the player, allowing them to improve their game.
 
-#Hardware used
+# Hardware used
 * Seeed Studio XIAO nRF52840
 * LSM6DSOX
 * ADXL372BCCZ-RL7
+
+  # Initial PCB design
