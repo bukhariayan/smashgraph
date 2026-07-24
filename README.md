@@ -6,4 +6,6 @@ An electronic tracker that attaches to a pickleball paddle in order to collect d
 * LSM6DSOX
 * ADXL372BCCZ-RL7
 
-  # Initial PCB design
+# Initial PCB design
+
+![PCB 3D Model](Screenshot 2026-07-24 141005.png)
