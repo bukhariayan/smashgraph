@@ -8,4 +8,6 @@ An electronic tracker that attaches to a pickleball paddle in order to collect d
 
 # Initial PCB design
 
-![PCB 3D Model](pcb-image-1.png)
+| PCB Layout | 3D Render |
+| :---: | :---: |
+| ![PCB](pcb-image-1.png) | ![Render](pcb-image-2.png) |
